@@ -1,18 +1,19 @@
-## Getting Started
+# 0318 강의
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### 절차 지향 언어
 
-## Folder Structure
+프로그램을 **절차, 순서에 따라 실행**
+**데이터**와 **함수**를 분리
+코드 **유연성 부족**, **재사용 어려움**
+**전역 변수를 많이 사용하기** 때문에 코드의 **가독성과 유지보수가 어려움**
 
-The workspace contains two folders by default, where:
+C, Pascal, Fortran 등이 있음
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### 객체 지향 언어 
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+**현실의 객체를 모델링**하여 프로그램을 작성함
+**데이터**와 **함수**를 분리
+객체는 **데이터와 데이터를 처리하는 메소드를** 모두 포함
+상속, 캡슐화, 다형성 등의 개념을 활용하여 **유연하고 재사용 가능한** 코드를 작성 가능
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Java, C++, Python
