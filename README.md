@@ -53,10 +53,10 @@ Python, Kotlin, Haskell, Lisp, Scala
 
 #### WORA를 가능하게 하는 자바의 특징
 
-* ##### 바이트 코드(byte code)
+##### 바이트 코드(byte code)
  - 자바 소스를 **컴파일한 목적 코드**
  - CPU에 종속적이지 않은 **중립적인 코드**
  - **JVM에 의해 해석되고 실행**됨
 
- * ##### JVM(Java Virtual Machine)
+##### JVM(Java Virtual Machine)
  - 자바 바이트 코드를 실행하는 자바 JVM(소프트웨어)
