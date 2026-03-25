@@ -81,7 +81,7 @@ Python, Kotlin, Haskell, Lisp, Scala
 
 /* 주석
 입니다
-*\
+*/
 
 컨트롤 + 슬래시
 // 주
