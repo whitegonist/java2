@@ -88,3 +88,12 @@ Python, Kotlin, Haskell, Lisp, Scala
 // 석
 ```
 
+
+### 상수 선언
+final 키워드 사용
+선언 할 때 초기값 지정
+실행 중 값의 변경 불가능
+
+``` java 
+final double PI = 3.141592;
+```
